@@ -1,5 +1,6 @@
 html {
     height: 100%;
+    background: linear-gradient(#fad0c4 0%, #ffd1ff 100%) no-repeat fixed;
 }
 
 body {
@@ -7,7 +8,6 @@ body {
     padding: 30px;
     padding-top: 40px;
     padding-bottom: 40px;
-    background: linear-gradient(to top, #fad0c4 0%, #ffd1ff 100%);
 }
 
 p {
