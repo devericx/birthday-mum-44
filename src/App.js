@@ -19,23 +19,8 @@ class App extends Component {
       <Content style={{...styles.cardStyle, ...styles.contentStyle}}>
         <p style={{ marginTop: '0' }}><strong>Happy birthday Mum!</strong></p>
 
-        <p>Wow. Lots of things have happened over the past month. It was a rough ride, but thanks to your determination and love, everything turned out okay. It’s just you and me now, yay!</p>
+        <p>Content REDACTED for privacy.</p>
 
-        <p>I just want to let you know how grateful I am. For everything, yes, but especially you, Mum. From my birth in Korea, to my childhood in Australia, to my teenage years in the United States, you have been there, right beside me, determined to raise me into a remarkable man.</p>
-
-        <p>I’m not a man, yet, but I really feel you have done your job. Wonderfully.</p>
-
-        <p>So another year passes, and another number is added to your age. It worries me now, since you’re getting to that stage where your body is getting weaker. I’m sure you’re worried too. For your future, for me.</p>
-
-        <p>You don’t have to worry, Mum. I promise, with all my heart, to take care of you just as much as you’ve taken care of me. You taught me manners, the importance of good habits, and to be grateful for the things I have, plus much, much more.</p>
-
-        <p>Thank you for that, and happy birthday.</p>
-
-        <p style={{ marginBottom: '0' }}>
-          From,
-          <br />
-          Junny
-        </p>
       </Content>
     );
   }
